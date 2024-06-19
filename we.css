@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+.a {
+    background-color: blue;
+    width: 100%;
+    height: 5rem;
+    padding: 0 5%;
+}
+
+.b {
+    background-color: red;
+    height: 2rem;
+}

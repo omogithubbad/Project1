@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Playwrite+NG+Modern:wght@100..400&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    width: 50%;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: 0 auto;
+    text-align: center;
+    /* font-family: "Lato", sans-serif; */
+    font-family: "Playwrite NG Modern", cursive;
+
+}
+.A {
+    width: 200px;
+    height: 200PX;
+    border-radius: 50%;   
+}
+
+.h {
+    margin-bottom: 2%;
+   
+}
+
+.B {
+   /* padding-left: 40%; */
+}
+
+h1 {
+    font-size: 2rem;
+    line-height: 150%;
+}
+
+h6 {
+    text-align: center;
+    font-size: 1rem;
+    /* margin-top: 1rem; */
+}
+
+.C {
+    /* padding: 5%;; */
+    padding-bottom: 0.1rem;
+}
+
+.D {
+    /* padding: 2%; */
+}
+
+#F {
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 50PX;
+    /* width: 6%; */
+    /* height: 25px; */
+    /* margin-left: 50% */
+    padding: 0.5rem 1rem;
+}
+
+#F:hover {
+    cursor: pointer ;
+    background-color: red;
+}
+
+
+
+
